@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="particle_min_radius">2dp</dimen>
+    <dimen name="particle_base_radius">2dp</dimen>
+    <dimen name="particle_min_vy">1dp</dimen>
+    <dimen name="particle_base_vy">3dp</dimen>
+    <dimen name="particle_min_vx">2dp</dimen>
+</resources>
