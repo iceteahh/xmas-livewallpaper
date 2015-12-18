@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@mipmap/fw1"
+        android:duration="100"/>
+    <item
+        android:drawable="@mipmap/fw2"
+        android:duration="100"/>
+    <item
+        android:drawable="@mipmap/fw3"
+        android:duration="100"/>
+    <item
+        android:drawable="@mipmap/fw4"
+        android:duration="100"/>
+    <item
+        android:drawable="@mipmap/fw5"
+        android:duration="100"/>
+    <item
+        android:drawable="@mipmap/fw6"
+        android:duration="100"/>
+    <item
+        android:drawable="@mipmap/fw7"
+        android:duration="100"/>
+    <item
+        android:drawable="@mipmap/fw8"
+        android:duration="100"/>
+    <item
+        android:drawable="@mipmap/fw9"
+        android:duration="100"/>
+    <item
+        android:drawable="@mipmap/fw10"
+        android:duration="100"/>
+    <item
+        android:drawable="@mipmap/fw11"
+        android:duration="100"/>
+    <item
+        android:drawable="@mipmap/fw12"
+        android:duration="100"/>
+    <item
+        android:drawable="@mipmap/fw13"
+        android:duration="100"/>
+    <item
+        android:drawable="@mipmap/fw14"
+        android:duration="100"/>
+
+</animation-list>
